@@ -33,9 +33,6 @@ import InfografisPenduduk from "./pages/InfografisPenduduk";
 import InfografisAPBDesa from "./pages/InfografisAPBDesa";
 import InfografisIDM from "./pages/InfografisIDM";
 import PetaFasilitasDesa from "./pages/PetaFasilitasDesa";
-import ProfilPages from "./pages/ProfilPage/ProfilPages";
-import KelahiranPages from "./pages/SuratPage/KelahiranPages";
-import KipPages from "./pages/SuratPage/KipPages";
 
 // You might want to create a DashboardPage for after login
 // import DashboardPage from "./pages/DashboardPage";
