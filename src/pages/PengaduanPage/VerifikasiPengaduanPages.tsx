@@ -158,7 +158,7 @@ export default function VerifikasiPengaduanPage() {
       setSubmitting(true);
       const token =
         localStorage.getItem("token") || localStorage.getItem("authToken");
-      await axios.put(
+      await axios.patch(
         `${API_CONFIG.baseURL}/api/pengaduan/${id}/status`,
         {
           status: status,
