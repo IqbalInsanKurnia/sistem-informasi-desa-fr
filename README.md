@@ -12,7 +12,7 @@ Antarmuka web modern untuk layanan publik desa: publikasi artikel, profil desa, 
 
 ### Cuplikan Layar
 
-Tambahkan tangkapan layar ke folder `docs/images/` kemudian tautkan di sini untuk mempercantik portofolio Anda.
+Tambahkan tangkapan layar ke folder `docs/images/`.
 
 - Beranda — ![Home](docs/images/home.png)
 - Peta/POI — ![Map](docs/images/map.png)
